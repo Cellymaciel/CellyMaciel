@@ -1,6 +1,6 @@
 # Olá, sou a Marcelly! 👋
 
-Desenvolvedora Mobile e Web em formação apaixonada por **tecnologia, pesquisa e inovação**. Atualmente, estou cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** na Universidade Federal do Paraná (UFPR), onde busco aprimorar continuamente minhas competências em programação para criar soluções que impactam.
+Desenvolvedora Mobile e Web em formação apaixonada por **tecnologia, pesquisa e inovação**. Formada em  **Tecnólogo em Análise e Desenvolvimento de Sistemas** na Universidade Federal do Paraná (UFPR), onde busco aprimorar continuamente minhas competências em programação para criar soluções que impactam.
 
 ✨ **O que me motiva:**
 Acredito que a tecnologia e a pesquisa podem transformar ideias complexas em ferramentas que solucionam problemas reais. Minha curiosidade me impulsiona a explorar novas fronteiras e a aprofundar conhecimentos.
